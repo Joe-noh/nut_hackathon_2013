@@ -10,7 +10,7 @@ Twitter APIのトークン等を伏せ字にした以外はそのままです。
 
 ### Output
 
-画像を<table>タグで並べたHTMLが標準出力に吐き出されます。
+画像を\<table\>タグで並べたHTMLが標準出力に吐き出されます。
 レンダリングするとこんな感じ↓
 
 ![My Icon](https://raw.github.com/Joe-noh/nut_hackathon_2013/master/mosaic_example.png)
